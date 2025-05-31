@@ -25,7 +25,7 @@ function App() {
       <Title/>
       <InputField addTodo={addTodo}/>
       <TaskList todos={todos} setTodos={setTodos} />
-      </Box>
+    </Box>
   )
 }
 
